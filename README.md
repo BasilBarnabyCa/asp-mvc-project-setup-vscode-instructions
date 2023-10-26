@@ -2,7 +2,7 @@
 
 
 
-Follow this guide to create a new ASP.NET MVC project using VSCode. We'll also use the ASPNET CodeGenerator package and configure the Entity Framework to use MySQL.
+Follow this guide to create a new ASP.NET MVC project using VSCode. We'll also use the ASPNET CodeGenerator package and configure the Entity Framework to use MySQL. (Courtesy of Shaun McKinnon)
 
 
 
